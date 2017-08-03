@@ -9,4 +9,4 @@
 <br></br>
 (2)Programming Language:C#
 <br></br>
-(3)Technical Architecture:DOTNET,C/S
+(3)Keywords:DOTNET,C/S
